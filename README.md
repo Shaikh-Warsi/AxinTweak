@@ -34,7 +34,7 @@ The script acknowledges and links to the original sources of some powerful tools
 
 ### 🔹 Run via CMD
 
-Double-click `main.bat` **or** right-click and choose:
+Double-click `start.bat` **or** right-click and choose:
 
 > `Run as Administrator` (recommended)
 
